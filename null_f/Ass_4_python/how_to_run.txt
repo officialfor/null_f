@@ -1,0 +1,9 @@
+open terminal in same directory where the java file is 
+
+
+1. start the server process first
+command:- python server.py
+
+
+2. start the client process 
+command:- python client.py

@@ -1,0 +1,14 @@
+How to run RMI
+open a terminal in same directory where all java files are present
+
+1. compile all java files at the same time
+   command:- javac *.java
+
+2. start rmi registry
+   command:- rmiregistry
+
+3. run Server file in new terminal
+   command:- java Server
+
+4. run Client file in new terminal
+   command:- java Client

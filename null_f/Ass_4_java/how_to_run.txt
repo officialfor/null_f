@@ -1,0 +1,9 @@
+open terminal in same directory where the java file is 
+
+
+1. enter command:- javac Berkley.java
+to compile the java file
+
+
+2. command:- java Berkley
+to run the java file

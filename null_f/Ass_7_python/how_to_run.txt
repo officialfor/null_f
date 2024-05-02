@@ -1,0 +1,12 @@
+paste app.py in a directory
+
+create new folder called templates inside same directory
+
+paste index.html in templates directory
+
+run python app
+command:- python app.py
+
+install necessary libraries if needed like 
+command:- pip install flask
+
